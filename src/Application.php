@@ -2,8 +2,7 @@
 
     namespace Jubilant;
 
-    use Jubilant\Router;
-    use Jubilant\Template;
+    use Jubilant\Http\Router;
 
     class Application {
         public Router $router;
